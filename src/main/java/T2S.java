@@ -1,6 +1,5 @@
 import com.google.cloud.texttospeech.v1beta1.*;
 import com.google.protobuf.ByteString;
-
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
